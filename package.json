@@ -17,7 +17,7 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://github.com/Aleshere/breaking-bad-react",
+  "homepage": "https://aleshere.github.io/breaking-bad-react/",
   "eslintConfig": {
     "extends": "react-app"
   },
