@@ -5,20 +5,20 @@
     "main.js.map": "/breaking-bad-react/static/js/main.d5754e16.chunk.js.map",
     "runtime-main.js": "/breaking-bad-react/static/js/runtime-main.5ab63ded.js",
     "runtime-main.js.map": "/breaking-bad-react/static/js/runtime-main.5ab63ded.js.map",
-    "static/js/2.c5dc2879.chunk.js": "/breaking-bad-react/static/js/2.c5dc2879.chunk.js",
-    "static/js/2.c5dc2879.chunk.js.map": "/breaking-bad-react/static/js/2.c5dc2879.chunk.js.map",
+    "static/js/2.acbaaae0.chunk.js": "/breaking-bad-react/static/js/2.acbaaae0.chunk.js",
+    "static/js/2.acbaaae0.chunk.js.map": "/breaking-bad-react/static/js/2.acbaaae0.chunk.js.map",
     "index.html": "/breaking-bad-react/index.html",
-    "precache-manifest.d50c64c855f5e6fdf8409d082b17d054.js": "/breaking-bad-react/precache-manifest.d50c64c855f5e6fdf8409d082b17d054.js",
+    "precache-manifest.dc4dc0cffb8cd69d2dc05505b73d0943.js": "/breaking-bad-react/precache-manifest.dc4dc0cffb8cd69d2dc05505b73d0943.js",
     "service-worker.js": "/breaking-bad-react/service-worker.js",
     "static/css/main.91b7a865.chunk.css.map": "/breaking-bad-react/static/css/main.91b7a865.chunk.css.map",
-    "static/js/2.c5dc2879.chunk.js.LICENSE.txt": "/breaking-bad-react/static/js/2.c5dc2879.chunk.js.LICENSE.txt",
+    "static/js/2.acbaaae0.chunk.js.LICENSE.txt": "/breaking-bad-react/static/js/2.acbaaae0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/breaking-bad-react/static/media/bg.1be2d3a0.jpg",
     "static/media/logo.png": "/breaking-bad-react/static/media/logo.3795f66d.png",
     "static/media/spinner.gif": "/breaking-bad-react/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.5ab63ded.js",
-    "static/js/2.c5dc2879.chunk.js",
+    "static/js/2.acbaaae0.chunk.js",
     "static/css/main.91b7a865.chunk.css",
     "static/js/main.d5754e16.chunk.js"
   ]
