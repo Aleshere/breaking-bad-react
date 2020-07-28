@@ -1,8 +1,8 @@
 
 # Breaking Bad Character Search App
-*This app offers a search bar at the top of the page, and characters cards below.
-*When we input any letter in there it will dynamically call for the show API and filter the cards according the match (no need to hit enter).
-*The cards themselves rotate 180 deg on their Z axys once hovered on, to reveal some character information.
+*This app offers a search bar at the top of the page, and characters cards below.*  
+*When we input any letter in there it will dynamically call for the show API and filter the cards according the match (no need to hit enter).*  
+*The cards themselves rotate 180 deg on their Z axys once hovered on, to reveal some character information.*  
 
 # What I have learned building this  
 
