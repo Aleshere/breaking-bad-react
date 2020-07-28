@@ -1,3 +1,37 @@
+
+# Breaking Bad Character Search App
+
+# What I have learned building this  
+
+> Neat folder organisation within my React app  
+> Props destructuring  
+> Ternary operator to decide what to render according to the if statement  
+> API querying by means of axios and async/await calls
+> Loading spinner .gif while loading state is set to true
+> onChange e.target.value for search bar (dynamic filtering)
+> useEffect calls re-render only when a specific property changes
+> css property transform-style: preserve 3d for a smooth tridimensional rendering
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## About
+
+* Just a tutorial from Traversy Media to improve my React skills
+* Project status: working
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And here's the usual boring stuff :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
