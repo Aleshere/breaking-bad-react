@@ -4,13 +4,13 @@
 # What I have learned building this  
 
 > Neat folder organisation within my React app  
-> Props destructuring  
-> Ternary operator to decide what to render according to the if statement  
-> API querying by means of axios and async/await calls
-> Loading spinner .gif while loading state is set to true
-> onChange e.target.value for search bar (dynamic filtering)
-> useEffect calls re-render only when a specific property changes
-> css property transform-style: preserve 3d for a smooth tridimensional rendering
+> Props destructuring   
+> Ternary operator to decide what to render according to the if statement   
+> API querying by means of axios and async/await calls  
+> Loading spinner .gif while loading state is set to true  
+> onChange e.target.value for search bar (dynamic filtering)  
+> useEffect calls re-render only when a specific property changes  
+> css property transform-style: preserve 3d for a smooth tridimensional rendering  
 
 
 &nbsp;
